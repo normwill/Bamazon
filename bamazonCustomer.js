@@ -47,6 +47,7 @@ inquirer.prompt([{
  function processOrder(id, quantity) {
  	console.log(id, quantity);
  	// connection query for retrieving the price
+  
  	// Calculate the price for user
  	// Update stock quantity
  }
